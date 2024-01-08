@@ -1,0 +1,2692 @@
+fileFormatVersion: 2
+guid: 3aa5562d5f362bd49985db10c4960cb4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpritesFondo_0
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1418
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ed931e61cc95844b2d3d928cde4da8
+      internalID: 1897615034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_1
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1423
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629cf6509a835e4418f4bc10385322ca
+      internalID: -1692747439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_2
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1418
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e38af10bb5103949ab827da53ace63d
+      internalID: 1604516512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_3
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1414
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230aca5f423922d45977f631e8e2b65b
+      internalID: -410831511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_4
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1412
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97933af469006d64eb7fa9187995535f
+      internalID: 560097154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_5
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1416
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0483fdda6884944c8706384298107b0
+      internalID: -1509668009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_6
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1413
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f10620170e1a046b097914b165bf4c
+      internalID: 913915896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_7
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1409
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad669d6ea81af14da80a8148f0971b0
+      internalID: -446424847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_8
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1405
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa549614366479b4ea5a0101268865fd
+      internalID: -803169179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_9
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1407
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c2ed3b7ee02ca44ac99427b29c3860
+      internalID: -1805878509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_10
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1410
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3dd8f018456e54f93898e2c1762c1c
+      internalID: 1756692933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_11
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1406
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1ac86d716b944468b82e44d8a39806
+      internalID: 1732953984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_12
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1407
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f19efa26ac25f44816ba7f64459f7f
+      internalID: -366651667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_13
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1402
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fceff93f3bb59247bad8a7317a63b70
+      internalID: 1475777084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_14
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1400
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e88a2ec55405744af7bfd51701fab8
+      internalID: 1992720810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_15
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1402
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67de3cba77fd85848bcdbd6781f0bcba
+      internalID: 1804995313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_16
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1405
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb033d8a4292044439e4cae52b3533c4
+      internalID: 1507411015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_17
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1402
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00023b7cdbe4dc408c5dc7013febbee
+      internalID: 2027951098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_18
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1400
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245ac67af3cd8f8429dfe2e3fa3bff12
+      internalID: -772526408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_19
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1395
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59a188b7a1409744bce98bd20b082a7
+      internalID: 1471528456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_20
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1398
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f788a36f97d8f459c6eb6bea5982ad
+      internalID: 2059785765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_21
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1394
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e204c6677494eb64b89d33d0d0e1aab5
+      internalID: -1246781741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_22
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1396
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ba55b14fa8a224182f8a79bebd2b81
+      internalID: -250262587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_23
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1399
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ce62260d5d6414ebcf8c6c71578a91
+      internalID: -145144493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_24
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1397
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a493d9983ff02044eb28f5c83b698fd9
+      internalID: 608707156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_25
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1394
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9b40f86e30e9246a3c727e6fff8600
+      internalID: -325029405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_26
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 1394
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df28e3a8625c1874f97bb8617bc382f2
+      internalID: 1858171851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_27
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1389
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93007253a4759574d97c9dd314ce600a
+      internalID: 1540911911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_28
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1392
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f7c1fc1ddfa3a4d9fd5d0bfc917e71
+      internalID: -665006187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_29
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1389
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e465e871707b44eaaf76f1c1081571
+      internalID: -239990911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_30
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1391
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca9b5f4e1b5d034788ec2398461de5e
+      internalID: 650429485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_31
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1388
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03fec7490dc0bb4d9cc6b9816112c5a
+      internalID: 845663371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_32
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1385
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83f78a2a5a91374a8cd1a5774de6881
+      internalID: -379527821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_33
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1385
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195f8d6abdf82ca42b0819c782aeba90
+      internalID: -1511398428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_34
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1382
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca60042ae97f07429d2aaae0c8f3dc4
+      internalID: -1429169383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_35
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab133a38df8c0b489c1ccc42904011e
+      internalID: 252534557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_36
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5f8db21dbd6ea46a61cc89a4ca0e8c
+      internalID: -833322698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_37
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebf3ba9613cff14ca65c4bf40f6e205
+      internalID: -1101819227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_38
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1383
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637d5053049d8444ebc1e9e8bf830ebf
+      internalID: -1209649021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_39
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1379
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a6d27fbb62be34eb3e6601b0831b4f
+      internalID: 786205747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_40
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1372
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f071c8de070ea024b951fae5c6c0f8e7
+      internalID: -1922152080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_41
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1372
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8656e3c1b0c329e489f69d19fdb1328d
+      internalID: 1287906604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_42
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1378
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3408916d762571248963d15ae22360b2
+      internalID: 2140848150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_43
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1370
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0046bea1f956a54eb88d82484898157
+      internalID: -1220168400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_44
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1370
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9128783dfc04c8b449e99f4b729520ba
+      internalID: 568796729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_45
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1362
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe0d3d25fd5d9f439d2491f563dc499
+      internalID: -1399982792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_46
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1362
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3799c78e998ab6941a7440f7870a363f
+      internalID: -1830928877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_47
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1360
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a1c8593e239ae4b85e2e3068b722b0
+      internalID: 1730067224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_48
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1360
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098ebe372b949964eb02ed5aa0f6ceaf
+      internalID: 1831673086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_49
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1360
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7512b7e22c938488c4de981d8654af
+      internalID: -82633331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_50
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1360
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8904b60ff230684db4f479a045d86fc
+      internalID: 2121839572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_51
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1360
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117f41241cb061a499cb2e7d17c84ae8
+      internalID: 757102592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_52
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1360
+        width: 49
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef53ce5a78e218c4782026fb8302e042
+      internalID: -62749990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_53
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1360
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d205ba6522a2a59428a04f099d885dbf
+      internalID: -1631205296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_54
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1360
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04075f8653cd2a4e90b4ebd901fe44d
+      internalID: -2115836945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_55
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1360
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ca1d4d6fba41645856d62600d11008
+      internalID: 1350554724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_56
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1360
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a397e4dc9cf4b4d96ea3faa6da1273
+      internalID: -208051489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_57
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1360
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b1d238a2cf84b4e954f711ac0e94f9
+      internalID: -1668623591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_58
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1265
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2df21e2e63ba844598f9b883d5b30df
+      internalID: 1876011051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_59
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1265
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525401a0c8bb5064db6804527f3b593b
+      internalID: -1351437997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_60
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1265
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e860147abb7c584d8ac5888dc83332f
+      internalID: -1714296238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_61
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1265
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ec6c3108dab4844ac39e995b934dca
+      internalID: 1876893243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_62
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1265
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb49db053dba9d479ac550790708995
+      internalID: -1112357528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_63
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1328
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474412087dc8621409b80a3dbed730ba
+      internalID: -647381072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_64
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1328
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51768f38bfc58604fb69fd7f6fdacb92
+      internalID: -1654684081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_65
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1263
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd1564ea31df3b419420499cb915984
+      internalID: -1288783203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_66
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1281
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec7aa21e23ec3542b809a35b7951b12
+      internalID: -510467542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_67
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1281
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77bbf506b6cf7648876414e7c6f4457
+      internalID: -662632216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_68
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1302
+        width: 64
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707f0fa601f7f3a49b4d35adf02c857e
+      internalID: 2089196785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_69
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1302
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee4128589e779443b2300cbe9d68ccc
+      internalID: 1898426929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_70
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1263
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09eeb95a44705f9418ed491b69dab8e4
+      internalID: 812856535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_71
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1263
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34123d08f14415645b601b814eee3e08
+      internalID: 1829735725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_72
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1263
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0059743498f20134cb80ae14ae472f01
+      internalID: -445975201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_73
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1263
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d78e24fecabe04696188bdad2e4ec1
+      internalID: 2044568181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_74
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1281
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad1d32aa45560f4a80db96ac860c1ac
+      internalID: 1669174940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_75
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1281
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707347f6d27772040888e02c01c5b7fc
+      internalID: -1152851722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_76
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1218
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76ca06a558d9364485188c922a17388
+      internalID: 1804278767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_77
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1203
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6527b63447e9f1a4db2cf0a00f9dad98
+      internalID: -1194312861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_78
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cfa1752cb0f1c4ba975acbe3b56eb9
+      internalID: 320012185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_79
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1202
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c124a1ed82295429345fded177b1a4
+      internalID: -314070879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_80
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ffa4e2c7cabea4a8b7a4e49652ffe5
+      internalID: 725056827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_81
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552dc4b3879fdbd4082b7ea775f52312
+      internalID: 1493934150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_82
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039a5a3ca7300bf468bbde648b5e9623
+      internalID: -1460804724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_83
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2571153f8a8c58d4696eb5f46c5315a0
+      internalID: -1179204006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_84
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1684542b52344445b6c161eb59e17c0
+      internalID: -19678046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_85
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1201
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de18d7a40b3e6747af082161c489d97
+      internalID: -16247952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_86
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1173
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8ea04421b9a76408effe787681cb95
+      internalID: -178247876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_87
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1138
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b997d89805ed9e43a585d470f2a8d62
+      internalID: -112020732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_88
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1138
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d266907652096cf48aeb3664d1a9a6f2
+      internalID: 549215833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_89
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1135
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d72469099fe514ba91076567a4658f
+      internalID: -229893990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_90
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1135
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd9be2ad276fe7478f9c72cd975a7d1
+      internalID: 855880757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_91
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1135
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c98fdf43c4c41428ddcaaf1ca8f452
+      internalID: -848920129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_92
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1135
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bc6e79b17742344b7a7e332a37af9f
+      internalID: -1183382437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_93
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1135
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cc8607553c20a43b73849a173d2aa7
+      internalID: -374652324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_94
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44984a1e6cf0e1b4c86522b20afe8ac4
+      internalID: -1100651154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_95
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9002fff28f13d4b820c8f0a54f13c0
+      internalID: -1126599567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_96
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277faf5914d5c884cb6df994a4979fbc
+      internalID: 1972862813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_97
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1138
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a04e944f168f94cbc912fdec2dc3a1
+      internalID: 192194655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_98
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1138
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9fa3fd47c60ec469b4829c267b4d7b
+      internalID: 282155886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_99
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1138
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2858c95a0b17c4eb7caaa6bdae392b
+      internalID: 758470266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_100
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1070
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e72ce3f5b406e42808b3d8929eed19
+      internalID: -14481903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_101
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1070
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71adeece75151424c9ca82c08bf5874c
+      internalID: 325150120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_102
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1070
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94626e0e0c3cfc7428fa3fc233308da2
+      internalID: 972609892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_103
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1070
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbf1b0321881a643a9d3249fd0fd05b
+      internalID: -139556669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_104
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1070
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cca3a7c0b32ef148bdebfd7bf27aea3
+      internalID: -1948051309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_105
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1071
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d38708b0e47bc94ba639835b8a744d9
+      internalID: -1916865442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_106
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1071
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c246adddff989944a9a515056af89a93
+      internalID: -388338945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_107
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1071
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c19579439edfd54aafef8dc46f7d9b5
+      internalID: 2025511861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_108
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1071
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41b3b9f3aad65549a227ede6938914a
+      internalID: 1456873988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_109
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1071
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f26b8d42b01ab40ad59e79792b85c3
+      internalID: -355219905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_110
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1009
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dc4510694cb624b9f47fc82211f6ec
+      internalID: 293202658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_111
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1008
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62018007d8b0e642aacea917301f509
+      internalID: -1299495623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_112
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1011
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470b4b989f6d612428d0055d8ef8eb89
+      internalID: -1625128617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_113
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1011
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b12dd1bf9feb2346a4806d6423040ef
+      internalID: -182485484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_114
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1011
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef40b143badf02d449ef36d836ff06cc
+      internalID: -1908653510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesFondo_115
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1362
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9601f815b49e1b94592126fc4d0c0492
+      internalID: 107327779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpritesFondo_0: 1897615034
+      SpritesFondo_1: -1692747439
+      SpritesFondo_10: 1756692933
+      SpritesFondo_100: -14481903
+      SpritesFondo_101: 325150120
+      SpritesFondo_102: 972609892
+      SpritesFondo_103: -139556669
+      SpritesFondo_104: -1948051309
+      SpritesFondo_105: -1916865442
+      SpritesFondo_106: -388338945
+      SpritesFondo_107: 2025511861
+      SpritesFondo_108: 1456873988
+      SpritesFondo_109: -355219905
+      SpritesFondo_11: 1732953984
+      SpritesFondo_110: 293202658
+      SpritesFondo_111: -1299495623
+      SpritesFondo_112: -1625128617
+      SpritesFondo_113: -182485484
+      SpritesFondo_114: -1908653510
+      SpritesFondo_115: 107327779
+      SpritesFondo_12: -366651667
+      SpritesFondo_13: 1475777084
+      SpritesFondo_14: 1992720810
+      SpritesFondo_15: 1804995313
+      SpritesFondo_16: 1507411015
+      SpritesFondo_17: 2027951098
+      SpritesFondo_18: -772526408
+      SpritesFondo_19: 1471528456
+      SpritesFondo_2: 1604516512
+      SpritesFondo_20: 2059785765
+      SpritesFondo_21: -1246781741
+      SpritesFondo_22: -250262587
+      SpritesFondo_23: -145144493
+      SpritesFondo_24: 608707156
+      SpritesFondo_25: -325029405
+      SpritesFondo_26: 1858171851
+      SpritesFondo_27: 1540911911
+      SpritesFondo_28: -665006187
+      SpritesFondo_29: -239990911
+      SpritesFondo_3: -410831511
+      SpritesFondo_30: 650429485
+      SpritesFondo_31: 845663371
+      SpritesFondo_32: -379527821
+      SpritesFondo_33: -1511398428
+      SpritesFondo_34: -1429169383
+      SpritesFondo_35: 252534557
+      SpritesFondo_36: -833322698
+      SpritesFondo_37: -1101819227
+      SpritesFondo_38: -1209649021
+      SpritesFondo_39: 786205747
+      SpritesFondo_4: 560097154
+      SpritesFondo_40: -1922152080
+      SpritesFondo_41: 1287906604
+      SpritesFondo_42: 2140848150
+      SpritesFondo_43: -1220168400
+      SpritesFondo_44: 568796729
+      SpritesFondo_45: -1399982792
+      SpritesFondo_46: -1830928877
+      SpritesFondo_47: 1730067224
+      SpritesFondo_48: 1831673086
+      SpritesFondo_49: -82633331
+      SpritesFondo_5: -1509668009
+      SpritesFondo_50: 2121839572
+      SpritesFondo_51: 757102592
+      SpritesFondo_52: -62749990
+      SpritesFondo_53: -1631205296
+      SpritesFondo_54: -2115836945
+      SpritesFondo_55: 1350554724
+      SpritesFondo_56: -208051489
+      SpritesFondo_57: -1668623591
+      SpritesFondo_58: 1876011051
+      SpritesFondo_59: -1351437997
+      SpritesFondo_6: 913915896
+      SpritesFondo_60: -1714296238
+      SpritesFondo_61: 1876893243
+      SpritesFondo_62: -1112357528
+      SpritesFondo_63: -647381072
+      SpritesFondo_64: -1654684081
+      SpritesFondo_65: -1288783203
+      SpritesFondo_66: -510467542
+      SpritesFondo_67: -662632216
+      SpritesFondo_68: 2089196785
+      SpritesFondo_69: 1898426929
+      SpritesFondo_7: -446424847
+      SpritesFondo_70: 812856535
+      SpritesFondo_71: 1829735725
+      SpritesFondo_72: -445975201
+      SpritesFondo_73: 2044568181
+      SpritesFondo_74: 1669174940
+      SpritesFondo_75: -1152851722
+      SpritesFondo_76: 1804278767
+      SpritesFondo_77: -1194312861
+      SpritesFondo_78: 320012185
+      SpritesFondo_79: -314070879
+      SpritesFondo_8: -803169179
+      SpritesFondo_80: 725056827
+      SpritesFondo_81: 1493934150
+      SpritesFondo_82: -1460804724
+      SpritesFondo_83: -1179204006
+      SpritesFondo_84: -19678046
+      SpritesFondo_85: -16247952
+      SpritesFondo_86: -178247876
+      SpritesFondo_87: -112020732
+      SpritesFondo_88: 549215833
+      SpritesFondo_89: -229893990
+      SpritesFondo_9: -1805878509
+      SpritesFondo_90: 855880757
+      SpritesFondo_91: -848920129
+      SpritesFondo_92: -1183382437
+      SpritesFondo_93: -374652324
+      SpritesFondo_94: -1100651154
+      SpritesFondo_95: -1126599567
+      SpritesFondo_96: 1972862813
+      SpritesFondo_97: 192194655
+      SpritesFondo_98: 282155886
+      SpritesFondo_99: 758470266
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
