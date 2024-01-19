@@ -1,0 +1,1876 @@
+fileFormatVersion: 2
+guid: 4eaad2421c6bbf74681b002f22b16365
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelTiles01Map01_0
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1503
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023ece52bbc76814cb7c45a454b76e37
+      internalID: -1719054142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_8
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1440
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fcbbc680dabbd43b47cff9127d42ff
+      internalID: 1259162292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_16
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1429
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37aa2336bbcf2b43ab62b64342fa434
+      internalID: -1704715773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_17
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1393
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7644b19fb6231a84fa42caed4c79afee
+      internalID: -2038552713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_21
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1393
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bc9364a5cd51b4ea25e4e84375ccce
+      internalID: 368557055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_22
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1386
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e8bf5f232b16547bde76ff198a3ef2
+      internalID: -183540119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_33
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1393
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3497305a62f6104d9dbc7c789a2a4ff
+      internalID: -2021027755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_34
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1393
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a84fa95e202e49439df5d81692d430d
+      internalID: -798983348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_35
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1369
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f52dd0962b3954bbce572ceafdda7d
+      internalID: -1373478398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_36
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1369
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0228f148262935c488cdedcb67041af8
+      internalID: 2103527516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_37
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1369
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7506c3a07c8f44c86ab4963e6808d8
+      internalID: 2042434980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_38
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1381
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e34a36a6fdc454e99ccef150748202
+      internalID: -527195272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_39
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a9e750689dcf44b843fb6a662033a7
+      internalID: 2021832602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_40
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef22563dd9adbe24fb8a6160f09dcac5
+      internalID: 665449999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_41
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1372
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198a6c4b1ae68ef46942261b4c59c4d5
+      internalID: 314434006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_42
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1330
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0bd472bb5e4a141b38192aabc5d852
+      internalID: 59863590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_44
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1330
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d86cba33e71394fbf8ac318905fe53
+      internalID: -2122547142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_47
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1330
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00021de1dec3c649a429ae60a023402
+      internalID: 1216193318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_49
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1265
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576d38e00fd251346a9676eb6c4a2505
+      internalID: 667369705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_50
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1330
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db47c2b3e85230b409ce7618ce634b1d
+      internalID: 2125878547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_52
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1330
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1220c2f44f0f54fb04b36f36770812
+      internalID: -1017126041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_54
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58c1b3b892d3b040af3f48f55afde4f
+      internalID: 1247274614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_55
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f99aeb5a95b0d4cbbbdfb09ce56b2b
+      internalID: -1794773265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_56
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1272
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0d76dd17f842f459e79dbc257a49fb
+      internalID: -714664162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_57
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1281
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7ec5e63067d3b43b6a43a0cb7ae9ea
+      internalID: -716651647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_58
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1281
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42564f853c3f57449e986804f2c30d9
+      internalID: -136371882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_59
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1281
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9ecc4664eb670499b6c8bbc6eff90c
+      internalID: -685428273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_60
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1265
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7370e5ff9a5cf12409f477971b6aa551
+      internalID: -2098213805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_61
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1265
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588baed86acfc53438b42aa69c8297d8
+      internalID: 1727011985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_62
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1265
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f829d299b4d9e49bbbf6ad0b52cab6
+      internalID: 1679312541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_63
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1265
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7145026cc6ef74f876d40d43bbb574
+      internalID: -1430681147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_64
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1263
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d8eb44ae874204c8a26b53e6b61014
+      internalID: -417433769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_65
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1263
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b05fbc878f8350468a18f48fdaf22da
+      internalID: 1652972534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_66
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1263
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a799643abf9f63744aff49776e6cb5ae
+      internalID: 140200379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_67
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1263
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b07aeca135ea94d9d50aae94bf51e7
+      internalID: -1059918821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_68
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 1264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f241149c5ab4c428fdfea3f5185312
+      internalID: -766363469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_69
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1175
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def14518dfbb65549bc10e067f0caf90
+      internalID: -1833171762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_70
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d94d519ff8b2f40a1a50fb238bd1a2
+      internalID: -1696137483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_71
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1203
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bff4bd48020f61479b1c7af79aaad98
+      internalID: 898768852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_72
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1202
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942ab6cf5b40c054aadab317293642d0
+      internalID: 287938224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_73
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c02301158afc21459a94e0226e6b60e
+      internalID: -1298427570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_74
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a43a3bb88b576249a6bbda3e9bd2fc7
+      internalID: -2095377485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_75
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64c49f883ae7cc47a1a49bac90b16c8
+      internalID: 1494717099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_76
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67f8dc17e03b2e4182332918b03e815
+      internalID: -695218056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_77
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7568d57a2c07f48b72017ca901533d
+      internalID: 1461983281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_78
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 1199
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b90d692d1bd02a44bab800d68c7524a
+      internalID: -459388178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_79
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1138
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3bde293f8596044afaee78acd05bb7
+      internalID: 1044181357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_80
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1138
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537a2613967d3c94db6d18a7f94087f8
+      internalID: 2116438302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_81
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1138
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef469d3ceefd6842810705f45b555ee
+      internalID: 732923448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_82
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1138
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea9c3515f4b9ed48b23e92ee6f2e278
+      internalID: 2042313496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_83
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1138
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94095a288e4ffda409ec6311bf6d1c1a
+      internalID: 943759982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_84
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1135
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b19115cb0027694e940eb633d82f059
+      internalID: -609756651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_85
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1135
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711be625e10bd7442b1d29585f907757
+      internalID: -813211566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_86
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1135
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4ab785f96cebd49a9be7ca0e85526f
+      internalID: -499771793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_87
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1135
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c081ba74a9c1d4187b490c12aba5b0
+      internalID: 597314687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_88
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1135
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fabd10bbd0662469698e10baac09a5
+      internalID: -1383649510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_89
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1144
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382f9a45254701b4aa96524fdd0b85ab
+      internalID: -386002366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_90
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 1134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3837e696f2b5f4ab4969a6e368b0bb
+      internalID: -1438818532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_91
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1070
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56414f3567d026a4cb92738db160580d
+      internalID: -476608912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_92
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1070
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df12c859f609a94c8233940a012f0be
+      internalID: -22980593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_93
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1070
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e4d726757c5f24d9a59531bc3f09a0
+      internalID: 1639379258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_94
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1070
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9249c6e65d0501f42bf75f7bbb652e68
+      internalID: 1545375473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_95
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1070
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e29bb72521be5a449dfc30e732523cd
+      internalID: 944939814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_96
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1079
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42210bf0c0d90d4482ea2c549dd3a5e
+      internalID: -153981348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_97
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1079
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f13d22202f9a64ba9131fc7181dc8b
+      internalID: 1243437371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_98
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1079
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2be2c95aacf58a4e83ef16c47e506d5
+      internalID: 1196187300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_99
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 1069
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c82686500ec964ebaa3909380da76f
+      internalID: -1906361846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_100
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1005
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56154b4310fc523418688df4ae42194c
+      internalID: -1600975545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_101
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1005
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974bbb6a6278c9048aceb5c8dafb2734
+      internalID: 1976762222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_102
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1005
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1905060614ea02e49829a79fe3513a78
+      internalID: -1959860065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_103
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1005
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b49c3d48b6234542941cbd72aa9e93c
+      internalID: -1561528240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_104
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1005
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16c9ea88cb4c804884ab25d84d3c989
+      internalID: -101659591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_105
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1014
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816c349a70189984e8b9201680da6979
+      internalID: 1599021969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_106
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1014
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da687b3600d97c4a992c8b53fc19962
+      internalID: -1060513251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_107
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1014
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bcbe1fcecd5324bab78d8f4288dc96
+      internalID: -2101102032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_108
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1014
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982d29364f9546d44b7bf5c45e1c35c8
+      internalID: -149798144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_109
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1014
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247d05f746f4a0b4b9ec22453c3e0314
+      internalID: 384782042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTiles01Map01_110
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 1004
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0450f33721ca6348af34be23a80f07b
+      internalID: 508647811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PixelTiles01Map01_0: -1719054142
+      PixelTiles01Map01_1: 797043882
+      PixelTiles01Map01_10: 1312057758
+      PixelTiles01Map01_100: -1600975545
+      PixelTiles01Map01_101: 1976762222
+      PixelTiles01Map01_102: -1959860065
+      PixelTiles01Map01_103: -1561528240
+      PixelTiles01Map01_104: -101659591
+      PixelTiles01Map01_105: 1599021969
+      PixelTiles01Map01_106: -1060513251
+      PixelTiles01Map01_107: -2101102032
+      PixelTiles01Map01_108: -149798144
+      PixelTiles01Map01_109: 384782042
+      PixelTiles01Map01_11: 17110291
+      PixelTiles01Map01_110: 508647811
+      PixelTiles01Map01_12: 2021785097
+      PixelTiles01Map01_13: -1245432297
+      PixelTiles01Map01_14: -98422717
+      PixelTiles01Map01_15: -1262990980
+      PixelTiles01Map01_16: -1704715773
+      PixelTiles01Map01_17: -2038552713
+      PixelTiles01Map01_18: -1160212089
+      PixelTiles01Map01_19: -992386835
+      PixelTiles01Map01_2: -1270399076
+      PixelTiles01Map01_20: 588094511
+      PixelTiles01Map01_21: 368557055
+      PixelTiles01Map01_22: -183540119
+      PixelTiles01Map01_23: -273205835
+      PixelTiles01Map01_24: 1267372636
+      PixelTiles01Map01_25: -1766730642
+      PixelTiles01Map01_26: 1262325133
+      PixelTiles01Map01_27: 990557036
+      PixelTiles01Map01_28: -1854189797
+      PixelTiles01Map01_29: 670419923
+      PixelTiles01Map01_3: -566605864
+      PixelTiles01Map01_30: 2126717650
+      PixelTiles01Map01_31: 747179287
+      PixelTiles01Map01_32: -2012541670
+      PixelTiles01Map01_33: -2021027755
+      PixelTiles01Map01_34: -798983348
+      PixelTiles01Map01_35: -1373478398
+      PixelTiles01Map01_36: 2103527516
+      PixelTiles01Map01_37: 2042434980
+      PixelTiles01Map01_38: -527195272
+      PixelTiles01Map01_39: 2021832602
+      PixelTiles01Map01_4: 839355622
+      PixelTiles01Map01_40: 665449999
+      PixelTiles01Map01_41: 314434006
+      PixelTiles01Map01_42: 59863590
+      PixelTiles01Map01_43: 1030611867
+      PixelTiles01Map01_44: -2122547142
+      PixelTiles01Map01_45: 100115826
+      PixelTiles01Map01_46: -646977251
+      PixelTiles01Map01_47: 1216193318
+      PixelTiles01Map01_48: -717834273
+      PixelTiles01Map01_49: 667369705
+      PixelTiles01Map01_5: 1528362211
+      PixelTiles01Map01_50: 2125878547
+      PixelTiles01Map01_51: 1372443993
+      PixelTiles01Map01_52: -1017126041
+      PixelTiles01Map01_53: 1282018153
+      PixelTiles01Map01_54: 1247274614
+      PixelTiles01Map01_55: -1794773265
+      PixelTiles01Map01_56: -714664162
+      PixelTiles01Map01_57: -716651647
+      PixelTiles01Map01_58: -136371882
+      PixelTiles01Map01_59: -685428273
+      PixelTiles01Map01_6: -31691686
+      PixelTiles01Map01_60: -2098213805
+      PixelTiles01Map01_61: 1727011985
+      PixelTiles01Map01_62: 1679312541
+      PixelTiles01Map01_63: -1430681147
+      PixelTiles01Map01_64: -417433769
+      PixelTiles01Map01_65: 1652972534
+      PixelTiles01Map01_66: 140200379
+      PixelTiles01Map01_67: -1059918821
+      PixelTiles01Map01_68: -766363469
+      PixelTiles01Map01_69: -1833171762
+      PixelTiles01Map01_7: -1771273311
+      PixelTiles01Map01_70: -1696137483
+      PixelTiles01Map01_71: 898768852
+      PixelTiles01Map01_72: 287938224
+      PixelTiles01Map01_73: -1298427570
+      PixelTiles01Map01_74: -2095377485
+      PixelTiles01Map01_75: 1494717099
+      PixelTiles01Map01_76: -695218056
+      PixelTiles01Map01_77: 1461983281
+      PixelTiles01Map01_78: -459388178
+      PixelTiles01Map01_79: 1044181357
+      PixelTiles01Map01_8: 1259162292
+      PixelTiles01Map01_80: 2116438302
+      PixelTiles01Map01_81: 732923448
+      PixelTiles01Map01_82: 2042313496
+      PixelTiles01Map01_83: 943759982
+      PixelTiles01Map01_84: -609756651
+      PixelTiles01Map01_85: -813211566
+      PixelTiles01Map01_86: -499771793
+      PixelTiles01Map01_87: 597314687
+      PixelTiles01Map01_88: -1383649510
+      PixelTiles01Map01_89: -386002366
+      PixelTiles01Map01_9: -1361917245
+      PixelTiles01Map01_90: -1438818532
+      PixelTiles01Map01_91: -476608912
+      PixelTiles01Map01_92: -22980593
+      PixelTiles01Map01_93: 1639379258
+      PixelTiles01Map01_94: 1545375473
+      PixelTiles01Map01_95: 944939814
+      PixelTiles01Map01_96: -153981348
+      PixelTiles01Map01_97: 1243437371
+      PixelTiles01Map01_98: 1196187300
+      PixelTiles01Map01_99: -1906361846
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
