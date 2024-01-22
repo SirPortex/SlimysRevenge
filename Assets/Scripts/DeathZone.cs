@@ -1,6 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
+using Unity.VisualScripting;
+using UnityEditor.SearchService;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class DeathZone : MonoBehaviour
 {
@@ -15,4 +19,10 @@ public class DeathZone : MonoBehaviour
     {
         
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+
 }

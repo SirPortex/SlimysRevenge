@@ -61,8 +61,15 @@ public class PlayerScript : MonoBehaviour
             _animator.SetBool("isWalking", false);
         }
 
-        if (_intentionToJump == true)
+
+        if (IsGrounded())
         {
+            //estamos tocando el suelo
+            _animator.SetBool("isJumping", false);
+        }
+        else
+        {
+            //no estamos tocando el suelo
             _animator.SetBool("isJumping", true);
         }
         
@@ -89,6 +96,7 @@ public class PlayerScript : MonoBehaviour
         _intentionToJump = false;
     }
 
+
     private bool IsGrounded()
     {
         RaycastHit2D collision = Physics2D.Raycast(transform.position, Vector2.down, rayDistance, groundMask);
@@ -96,7 +104,11 @@ public class PlayerScript : MonoBehaviour
         {
             return true;
         }
-        return false;
+        else
+        {
+            return false;
+        }
+        
     }
 
     private void OnDrawGizmos()
@@ -104,4 +116,5 @@ public class PlayerScript : MonoBehaviour
         Gizmos.color = Color.red;
         Gizmos.DrawRay(transform.position, Vector2.down * rayDistance);
     }
+
 }
