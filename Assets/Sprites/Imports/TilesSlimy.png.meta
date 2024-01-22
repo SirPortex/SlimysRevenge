@@ -1,0 +1,2262 @@
+fileFormatVersion: 2
+guid: e34c678821c497847ab114d83b717a5c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TilesSlimy_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1011
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: -9}
+        - {x: 32, y: -9}
+        - {x: 32, y: 4}
+        - {x: -2, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcf42cb8533d1d4fbd2d4824b27ffe7
+      internalID: -1515860004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1011
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -9}
+        - {x: 32, y: -9}
+        - {x: 32, y: 4}
+        - {x: -32, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb47090a82bc7a4ba5cf3e229553722
+      internalID: 841708515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1011
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -9}
+        - {x: 32, y: -9}
+        - {x: 32, y: 4}
+        - {x: -32, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfa4bc21f2684f4293bcbf120ee19c1
+      internalID: 1916342547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1011
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -9}
+        - {x: 32, y: -9}
+        - {x: 32, y: 4}
+        - {x: -32, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030356ffe3a4f8b46aa9fff6d67a5123
+      internalID: -1714642563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1011
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 4}
+        - {x: -32, y: -9}
+        - {x: 2, y: -9}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19397e38eebf8a45bc759e751056571
+      internalID: -814603043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1011
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c402ae868a84541a0025c4dc57232d
+      internalID: 875540184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_6
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1011
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 23, y: -18}
+        - {x: 7, y: -18}
+        - {x: 7, y: -15}
+        - {x: 2, y: -15}
+        - {x: -5, y: -26}
+        - {x: -5, y: -32}
+        - {x: 13, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: -27}
+        - {x: 29, y: -17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea6eb9a4554a6a4aa742da3b93a7655
+      internalID: -23024097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_7
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1011
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: -19}
+        - {x: -28, y: -22}
+        - {x: -29, y: -26}
+        - {x: -30, y: -32}
+        - {x: 30, y: -32}
+        - {x: 30, y: -27}
+        - {x: 26, y: -21}
+        - {x: 22, y: -17}
+        - {x: 7, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17db7d66a4895504fab13ab0e4a53fd4
+      internalID: 486421658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_8
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1011
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -22}
+        - {x: -10, y: -19}
+        - {x: -10, y: -26}
+        - {x: -12, y: -27}
+        - {x: -12, y: -31}
+        - {x: 17, y: -31}
+        - {x: 17, y: -26}
+        - {x: 13, y: -21}
+        - {x: 10, y: -18}
+        - {x: 1, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472e4901de1e9804bb0b0dd7a507bee7
+      internalID: 1051561388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_9
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1011
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -18}
+        - {x: -27, y: -18}
+        - {x: -27, y: -22}
+        - {x: -29, y: -24}
+        - {x: -31, y: -27}
+        - {x: -31, y: -32}
+        - {x: 30, y: -32}
+        - {x: 30, y: -20}
+        - {x: 10, y: -20}
+        - {x: 1, y: -15}
+        - {x: -5, y: -18}
+        - {x: -8, y: -21}
+        - {x: -10, y: -24}
+        - {x: -12, y: -24}
+        - {x: -13, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2b66ecba474fb418590520cd57af72
+      internalID: -10995449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_10
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1011
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -15}
+        - {x: -31, y: -16}
+        - {x: -31, y: -32}
+        - {x: 1, y: -32}
+        - {x: 1, y: -27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f39f57938a294468f33e174a65dbcd
+      internalID: 175385671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_11
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1011
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dd537d39f650c42937407090e0b68c
+      internalID: -577546608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 942
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a767c0f2688f48f4bbb68dd3b86794eb
+      internalID: -356617960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 942
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3296a89d68afd084ab788e5d60da29b5
+      internalID: 1817775885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 942
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0a8430a73f26047adde74bb7c86549
+      internalID: 1076050909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_15
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 942
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536fd209bfc6a4b4481517338ede7451
+      internalID: -1172022554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 942
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407edde99f8cb494ca17d57373b948be
+      internalID: -1004123850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 942
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a44591618808143b742c245e3adbf2
+      internalID: -1500167348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_18
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 942
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08ae0719e049eb4b8775398a1808bb6
+      internalID: 173572239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_19
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 942
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89ab58fda82d7e4ab71660244e3593e
+      internalID: 795435877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_20
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 942
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48883ece873f1c4fa66ed4e168673a0
+      internalID: -345652709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_21
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 942
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ed998c565f78544a275f604e0f1b45
+      internalID: -1301567305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_22
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 942
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd51a9e2ca35e24596ebbf42f5d91b4
+      internalID: -1644760139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_23
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 942
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7a9912f5999154a9cae2ed82f9ad0f
+      internalID: 524156615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166885b845d51fc429a9449b8f0e2a5f
+      internalID: 943725299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37575f8fc9f15f948bd4a4d0d89b597e
+      internalID: 981368326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1946b0243ab7642882f81f4e7dd25a
+      internalID: -1603126853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_27
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bbd52335cde5349b757fe724eb4fc8
+      internalID: -429834394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_28
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fde81d9405b5049964f857b34f2fe8
+      internalID: 670721091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_29
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc43973efdcfeeb488ac7313f7cd68fb
+      internalID: 145248811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_30
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bda03c946e315c4b9060b1ced2a5b4c
+      internalID: -1226510590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_31
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e363ef95f3c2f4540b6cab12cb6bcc3a
+      internalID: 1193739725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_32
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943c432f43be27041afdf8e82283f4cd
+      internalID: -35920098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_33
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4ceafce0fd5f0449858a40b350f14e
+      internalID: -44691191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_34
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e8f13f22bb5ce4f851aa0a195db3e0
+      internalID: 1951482885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_35
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14af85d3d1bd18349a11416d13e1d74c
+      internalID: 76239956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_36
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 804
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96930df78df41f14e9fbf92f8994a4bf
+      internalID: 1855425363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_37
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 804
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d856cb99a7df844c88b3ac692755b07
+      internalID: -98649732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_38
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 804
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799be032a83dde04cb498ed0edb09bcc
+      internalID: 1690885251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_39
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 804
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e9e0a3c44ca9e4187011f84e2f11b3
+      internalID: 301778712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_40
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 804
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6ee147d15773949b56376cf78787df
+      internalID: 249574388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_41
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 804
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c4803cc07c0514786b6a2d3a4976c3
+      internalID: -126348749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_42
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 804
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4b9a5c3422ad84e8ca9f8dd717d83a
+      internalID: 360411739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_43
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 804
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352af45b49bb16c40b34a202683c47cf
+      internalID: 748240013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_44
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 804
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2981860eec9184a8cc670240710c95
+      internalID: 1633759625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_45
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 804
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e59c1cd0ad94d4f8fe876c9b125547
+      internalID: -1647279559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 735
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae7e789979b32c4395e8d0b8e7d01e5
+      internalID: -1474432500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_47
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 735
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 0}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a03fae196896874393293c1231839a4
+      internalID: 737884826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_48
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 735
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e404f34739364545a687f4155840c07
+      internalID: -1724788822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_49
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 735
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 0}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc377b69b05c7f49853be8ad9d6c7d7
+      internalID: 529158541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_50
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 735
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: 11}
+        - {x: 32, y: 11}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce38804a0c995049af38b9752f50239
+      internalID: -400051374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_51
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 735
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: 11}
+        - {x: 32, y: 11}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0429a74e9bc6b469c1452d3801d5e4
+      internalID: -1237630228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_52
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 735
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: 11}
+        - {x: 32, y: 11}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09541230b65b2f64d8341e75d14c2d12
+      internalID: -2024120745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_53
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 735
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: 11}
+        - {x: 32, y: 11}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8decc5ce2d1e12a499ad401ce4089088
+      internalID: 1973467569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_54
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 735
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: 11}
+        - {x: 32, y: 11}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320c70f8f8c5390469a28378f5a9f76f
+      internalID: 1375267577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_55
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 735
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a684f1b5a57a76f49aa12ee3d37937e2
+      internalID: -1230564096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_56
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 666
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247408c1a40da7e4ba1f27baf9b5482e
+      internalID: 356870432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_57
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 666
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2db9686bde09c4b81a6acf1f8bcc47
+      internalID: 859961534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_58
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 666
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6064858ebe09d094996f02407eb5ade6
+      internalID: -346116609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_59
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 666
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d209414e275e4714eb7533554b50f9c6
+      internalID: -1272105095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_60
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 666
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b20d521b1db125438ecf92ce8154d67
+      internalID: 1300921032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_61
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 666
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bd515512548e246bed1faad760c3a1
+      internalID: 854048726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_62
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 666
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea4017c778cf424780a755894b0bc9d
+      internalID: 459032356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_63
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 666
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb52b9ada02ec04aa9ed75629b5c24b
+      internalID: 1066639049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_64
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 666
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ed20e441945844dbebd7686e9c83e1
+      internalID: -1420503948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_65
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 666
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876fb077e518bb24bb576cb51432f6bc
+      internalID: -1116207760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_66
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 597
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448bbf57f1e075a4d9fb8759dc9f78e2
+      internalID: -894721529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_67
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 597
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2398f93a62fb60948b337afcd29347b5
+      internalID: -2040615143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_68
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 597
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532ca554e5b95e44aa8f25b616fb9fc9
+      internalID: 894642196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_69
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 597
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0ab8dc2459138449a0e6cfcaa3a225
+      internalID: -588845138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_70
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 597
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5872b7fcb2a614fa99b95ace788a4a
+      internalID: -921037658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_71
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 597
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829258c7be406b043b02d5253953dc4b
+      internalID: -2067287113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_72
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 597
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aae7d59e3a23044b50c7d4b63b7ecf
+      internalID: 691304407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_73
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 528
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e576032f852ea0346b632089217b56bb
+      internalID: -1746477342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_74
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 528
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2d577ca2811874bb59fd310bc7d288
+      internalID: 1108614321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_75
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 528
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca588b60a9f0074284b9cf223bf6ebe
+      internalID: 134678333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_76
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 528
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86c020b75b593b41aa02625f71d2568
+      internalID: 1375850531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_77
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 528
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32777b77d1758c349a166bfd084cd721
+      internalID: -1461991425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_78
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 528
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b50b3a052fdda40bd20580090dd509
+      internalID: -1371716774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_79
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 528
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -1}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5c86e3afdcfac43a3c39a6e35658f3
+      internalID: 1539752632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_80
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 528
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -1}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dd86a15a734764f9a6a0870cfaa9a5
+      internalID: -1117639894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_81
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 528
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -1}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a51acd08f48b140a4a0e7561105b14
+      internalID: -1191082254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_82
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a96306298a4ec4f8d971af78d64aaa
+      internalID: -1015281333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_83
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e43b13ec5506d4ab55e1dd9187645d
+      internalID: -736728538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_84
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d0f8f74b60b5346b27019b8cb72c5e
+      internalID: 1148535500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_85
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64f81fa445159b4cae7797b3c8e95c0
+      internalID: 1371685224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_86
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2383b607a1541ab4091f1e4265fc968c
+      internalID: -1021390698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_87
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5634e036e22288418afef20461bc84b
+      internalID: -241810871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_88
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a353876e49744fe4588e2f6a41094de7
+      internalID: 171949115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesSlimy_89
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 459
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c9d349feceae34a817428d523b20c0
+      internalID: 1057722978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TilesSlimy_0: -1515860004
+      TilesSlimy_1: 841708515
+      TilesSlimy_10: 175385671
+      TilesSlimy_11: -577546608
+      TilesSlimy_12: -356617960
+      TilesSlimy_13: 1817775885
+      TilesSlimy_14: 1076050909
+      TilesSlimy_15: -1172022554
+      TilesSlimy_16: -1004123850
+      TilesSlimy_17: -1500167348
+      TilesSlimy_18: 173572239
+      TilesSlimy_19: 795435877
+      TilesSlimy_2: 1916342547
+      TilesSlimy_20: -345652709
+      TilesSlimy_21: -1301567305
+      TilesSlimy_22: -1644760139
+      TilesSlimy_23: 524156615
+      TilesSlimy_24: 943725299
+      TilesSlimy_25: 981368326
+      TilesSlimy_26: -1603126853
+      TilesSlimy_27: -429834394
+      TilesSlimy_28: 670721091
+      TilesSlimy_29: 145248811
+      TilesSlimy_3: -1714642563
+      TilesSlimy_30: -1226510590
+      TilesSlimy_31: 1193739725
+      TilesSlimy_32: -35920098
+      TilesSlimy_33: -44691191
+      TilesSlimy_34: 1951482885
+      TilesSlimy_35: 76239956
+      TilesSlimy_36: 1855425363
+      TilesSlimy_37: -98649732
+      TilesSlimy_38: 1690885251
+      TilesSlimy_39: 301778712
+      TilesSlimy_4: -814603043
+      TilesSlimy_40: 249574388
+      TilesSlimy_41: -126348749
+      TilesSlimy_42: 360411739
+      TilesSlimy_43: 748240013
+      TilesSlimy_44: 1633759625
+      TilesSlimy_45: -1647279559
+      TilesSlimy_46: -1474432500
+      TilesSlimy_47: 737884826
+      TilesSlimy_48: -1724788822
+      TilesSlimy_49: 529158541
+      TilesSlimy_5: 875540184
+      TilesSlimy_50: -400051374
+      TilesSlimy_51: -1237630228
+      TilesSlimy_52: -2024120745
+      TilesSlimy_53: 1973467569
+      TilesSlimy_54: 1375267577
+      TilesSlimy_55: -1230564096
+      TilesSlimy_56: 356870432
+      TilesSlimy_57: 859961534
+      TilesSlimy_58: -346116609
+      TilesSlimy_59: -1272105095
+      TilesSlimy_6: -23024097
+      TilesSlimy_60: 1300921032
+      TilesSlimy_61: 854048726
+      TilesSlimy_62: 459032356
+      TilesSlimy_63: 1066639049
+      TilesSlimy_64: -1420503948
+      TilesSlimy_65: -1116207760
+      TilesSlimy_66: -894721529
+      TilesSlimy_67: -2040615143
+      TilesSlimy_68: 894642196
+      TilesSlimy_69: -588845138
+      TilesSlimy_7: 486421658
+      TilesSlimy_70: -921037658
+      TilesSlimy_71: -2067287113
+      TilesSlimy_72: 691304407
+      TilesSlimy_73: -1746477342
+      TilesSlimy_74: 1108614321
+      TilesSlimy_75: 134678333
+      TilesSlimy_76: 1375850531
+      TilesSlimy_77: -1461991425
+      TilesSlimy_78: -1371716774
+      TilesSlimy_79: 1539752632
+      TilesSlimy_8: 1051561388
+      TilesSlimy_80: -1117639894
+      TilesSlimy_81: -1191082254
+      TilesSlimy_82: -1015281333
+      TilesSlimy_83: -736728538
+      TilesSlimy_84: 1148535500
+      TilesSlimy_85: 1371685224
+      TilesSlimy_86: -1021390698
+      TilesSlimy_87: -241810871
+      TilesSlimy_88: 171949115
+      TilesSlimy_89: 1057722978
+      TilesSlimy_9: -10995449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
