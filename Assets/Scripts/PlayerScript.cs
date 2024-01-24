@@ -7,8 +7,9 @@ using UnityEngine;
 public class PlayerScript : MonoBehaviour
 {
     public KeyCode rightKey, leftKey, jumpKey;
-    public float speed, rayDistance, jumpForce;
+    public float speed, rayDistance, jumpForce, bounceSpeed;
     public LayerMask groundMask;
+    
 
     private Rigidbody2D rb;
     private SpriteRenderer _rend;
@@ -96,6 +97,10 @@ public class PlayerScript : MonoBehaviour
         _intentionToJump = false;
     }
 
+    public void Bounce()
+    {
+        rb.velocity = new Vector2(rb.velocity.x, bounceSpeed);
+    }
 
     private bool IsGrounded()
     {
