@@ -32,10 +32,6 @@ public class SpringFunction : MonoBehaviour
                     _animator.SetBool("isBouncing", true);
                 }
             }
-            else
-            {
-                _animator.SetBool("isBouncing", false);
-            }
         }
     }
 }

@@ -63,7 +63,7 @@ public class EnemyScript : MonoBehaviour
             {
 
 
-                if (collision.GetContact(0).normal.y <= -1)
+                if (collision.GetContact(0).normal.y <= -0.9)
                 {
                     
                     _rb.gravityScale = 0f;
@@ -77,6 +77,7 @@ public class EnemyScript : MonoBehaviour
                 }
                 else
                 {
+                    collision.gameObject.GetComponent<PlayerScript>().SlimeDeath();
                     //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
                     _rb.gravityScale = 0f;
                     Destroy(gameObject.GetComponent<Rigidbody2D>());

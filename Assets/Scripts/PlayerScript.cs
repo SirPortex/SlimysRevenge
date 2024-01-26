@@ -111,7 +111,8 @@ public class PlayerScript : MonoBehaviour
 
     public void SlimeDeath()
     {
-        rb.gravityScale = 0;
+
+        jumpForce = 0;
         speed = 0;
         _animator.SetBool("isDEAD", true);
     }
@@ -143,16 +144,5 @@ public class PlayerScript : MonoBehaviour
         }
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.GetContact(0).normal.x <= -1 && collision.gameObject.CompareTag("Enemy"))
-        {
-            SlimeDeath();
-        }
 
-        if (collision.GetContact(0).normal.x >= -1 && collision.gameObject.CompareTag("Enemy"))
-        {
-            SlimeDeath();
-        }
-    }
 }
