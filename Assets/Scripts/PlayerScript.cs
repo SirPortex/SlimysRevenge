@@ -2,12 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel.Design;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerScript : MonoBehaviour
 {
     public KeyCode rightKey, leftKey, jumpKey;
-    public float speed, rayDistance, jumpForce, bounceSpeed;
+    public float speed, rayDistance, jumpForce, bounceSpeed, bounceSpring;
     public LayerMask groundMask;
     
 
@@ -28,6 +29,7 @@ public class PlayerScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
         dir = Vector2.zero;
         if (Input.GetKey(rightKey))
         {
@@ -102,6 +104,18 @@ public class PlayerScript : MonoBehaviour
         rb.velocity = new Vector2(rb.velocity.x, bounceSpeed);
     }
 
+    public void BounceSpring()
+    {
+        rb.velocity = new Vector2(rb.velocity.x, bounceSpring);
+    }
+
+    public void SlimeDeath()
+    {
+        rb.gravityScale = 0;
+        speed = 0;
+        _animator.SetBool("isDEAD", true);
+    }
+
     private bool IsGrounded()
     {
         RaycastHit2D collision = Physics2D.Raycast(transform.position, Vector2.down, rayDistance, groundMask);
@@ -121,5 +135,11 @@ public class PlayerScript : MonoBehaviour
         Gizmos.color = Color.red;
         Gizmos.DrawRay(transform.position, Vector2.down * rayDistance);
     }
-
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.GetComponent<Spikes>())
+        {
+            SlimeDeath();
+        }
+    }
 }

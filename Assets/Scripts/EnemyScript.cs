@@ -1,3 +1,4 @@
+using JetBrains.Annotations;
 using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
@@ -9,10 +10,8 @@ public class EnemyScript : MonoBehaviour
 {
 
     public float speed;
-    public Transform target;
-    public float offstet = 1.0f;
-    public bool isChasing;
-    public float chaseDistance;
+    public float rayDistance;
+    public LayerMask player;
 
     private Rigidbody2D _rb;
     private SpriteRenderer _rend;
@@ -33,36 +32,16 @@ public class EnemyScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
-        if (isChasing == true)
+        if (ChaseLeft())
         {
-            if (transform.position.x > target.transform.position.x)
-            {
-                _rend.flipX = false;
-
-                transform.position += Vector3.left * speed * Time.deltaTime;
-            }
-            if (transform.position.x < target.transform.position.x)
-            {
-                _rend.flipX = true;
-
-                transform.position += Vector3.right * speed * Time.deltaTime;
-            }
-
+            transform.position += Vector3.left * speed * Time.deltaTime;
+            _rend.flipX = false;
         }
-
-        else
+        
+        if (ChaseRight())
         {
-
-            if (Vector2.Distance(transform.position, target.position) > chaseDistance)
-            {
-                isChasing = false;
-            }
-
-            if (Vector2.Distance(transform.position, target.position) < chaseDistance)
-            {
-                isChasing = true;
-            } 
+            transform.position += Vector3.right * speed * Time.deltaTime;
+            _rend.flipX = true;
         }
     }
     private void StopPlayer()
@@ -71,34 +50,74 @@ public class EnemyScript : MonoBehaviour
         if (speed == 0.0f)
         {
             _rend.flipX = true;
-
         }
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Player"))
-        {
-            _rb.gravityScale = 0f;
+        
 
-            if (collision.GetContact(0).normal.y <= -0.9)
+        float value = 5;
+        if (value == 5)
+        {
+            if (collision.gameObject.CompareTag("Player"))
+            {
+
+
+                if (collision.GetContact(0).normal.y <= -1)
                 {
+                    
                     _rb.gravityScale = 0f;
+                    Destroy(gameObject.GetComponent<Rigidbody2D>());
+                    Destroy(gameObject.GetComponent<BoxCollider2D>());
                     StopPlayer();
                     collision.gameObject.GetComponent<PlayerScript>().Bounce();
                     _animator.SetBool("isDying", true);
                     print("Colision");
-                    Destroy(gameObject.GetComponent<BoxCollider2D>());
-
-                    
-
+          
                 }
                 else
                 {
+
                     SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-                    
+                    _rb.gravityScale = 0f;
+                    Destroy(gameObject.GetComponent<Rigidbody2D>());
+                    Destroy(gameObject.GetComponent<BoxCollider2D>());
                 }
-            
+            }
         }
     }
 
+    private bool ChaseLeft()
+    {
+        RaycastHit2D collisionL = Physics2D.Raycast(transform.position, Vector2.left, rayDistance, player);
+        if (collisionL)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+
+    private bool ChaseRight()
+    {
+        RaycastHit2D collisionR = Physics2D.Raycast(transform.position, Vector2.right, rayDistance, player);
+        if (collisionR)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+    private void OnDrawGizmos()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawRay(transform.position, Vector2.left * rayDistance);
+        Gizmos.DrawRay(transform.position, Vector2.right * rayDistance);
+    }
+
+    
 }
