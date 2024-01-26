@@ -142,4 +142,17 @@ public class PlayerScript : MonoBehaviour
             SlimeDeath();
         }
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.GetContact(0).normal.x <= -1 && collision.gameObject.CompareTag("Enemy"))
+        {
+            SlimeDeath();
+        }
+
+        if (collision.GetContact(0).normal.x >= -1 && collision.gameObject.CompareTag("Enemy"))
+        {
+            SlimeDeath();
+        }
+    }
 }

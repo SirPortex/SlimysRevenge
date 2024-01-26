@@ -77,8 +77,7 @@ public class EnemyScript : MonoBehaviour
                 }
                 else
                 {
-
-                    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+                    //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
                     _rb.gravityScale = 0f;
                     Destroy(gameObject.GetComponent<Rigidbody2D>());
                     Destroy(gameObject.GetComponent<BoxCollider2D>());
