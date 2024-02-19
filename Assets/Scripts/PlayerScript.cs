@@ -10,6 +10,8 @@ public class PlayerScript : MonoBehaviour
     public KeyCode rightKey, leftKey, jumpKey;
     public float speed, rayDistance, jumpForce, bounceSpeed, bounceSpring;
     public LayerMask groundMask;
+
+    public int maxJumps = 2;
     
 
     private Rigidbody2D rb;
@@ -17,6 +19,7 @@ public class PlayerScript : MonoBehaviour
     private Animator _animator;
     private Vector2 dir;
     private bool _intentionToJump;
+    private int currentJumps = -1;
 
     // Start is called before the first frame update
     void Start()
@@ -45,7 +48,7 @@ public class PlayerScript : MonoBehaviour
         }
 
         // _intentionToJump = false;
-        if (Input.GetKey(jumpKey))
+        if (Input.GetKeyDown(jumpKey))
         {
             _intentionToJump = true;
 
@@ -90,11 +93,14 @@ public class PlayerScript : MonoBehaviour
 
             rb.velocity = nVel;
         }
-
-        if (_intentionToJump && IsGrounded())
+        
+        
+        if (_intentionToJump && IsGrounded() || (currentJumps < maxJumps))
         {
             rb.velocity = new Vector2(rb.velocity.x, 0);
             rb.AddForce(Vector2.up * jumpForce * rb.gravityScale, ForceMode2D.Impulse);
+
+            currentJumps++; //Suma uno a la variable (+1).
         }
         _intentionToJump = false;
     }
@@ -122,7 +128,9 @@ public class PlayerScript : MonoBehaviour
         RaycastHit2D collision = Physics2D.Raycast(transform.position, Vector2.down, rayDistance, groundMask);
         if (collision)
         {
+            
             return true;
+            currentJumps = 0;
         }
         else
         {

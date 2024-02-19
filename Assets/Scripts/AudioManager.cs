@@ -11,21 +11,16 @@ public class AudioManager : MonoBehaviour
     void Awake() // Si no se pone "private" o "public" siempre es "private" por defecto
     {
 
-        if (instance)
+        if (!instance)
         {
             instance = this;
-            Destroy(gameObject);
+            DontDestroyOnLoad(gameObject);
+            audioList = new List<GameObject>();
         }
         else
         {
             Destroy(gameObject);
         }
-    }
-
-    private void Start()
-    {
-        //Instanciamos la lista
-        audioList = new List<GameObject>();
     }
 
     //Recreando el BackGroundMusic desde el codigo
